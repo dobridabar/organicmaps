@@ -100,6 +100,7 @@ ro:Unde să mănânci|Alimentație|mâncare
 es:Dónde comer|Comer|Comida
 et:Kus süüa|Toit
 eu:Non jan|Jaten
+sr:Где јести|Јело|Храна|Gde jesti|Jelo|Hrana
 sv:Var att äta|Mat
 th:กินร้านไหนดี|อาหาร
 tr:Nerede yenir|Yemek
@@ -146,6 +147,7 @@ pt:Mercearias|Comida|Alimentos
 pt-BR:Mercados|Alimentação
 ro:4Alimentare|Produse|Alimentație|Mâncare
 sk:Potraviny|Jedlo
+sr:Намирнице|Храна|Namirnice|Hrana
 sv:Produkter|Mat
 sw:Migahawani
 th:ซื้อของกินของใช้|อาหาร
@@ -184,6 +186,7 @@ ro:5Transport
 es:5Transporte
 et:Transport
 eu:5Garraioa
+sr:5Транспорт|5Transport
 sv:5Transport
 th:การขนส่ง
 tr:4Ulaşım
@@ -225,6 +228,7 @@ ro:4Benzinărie|Benzină|Gaz
 es:3Gasolinera|Estación de servicio|gasoil|diesel|nafta|combustible|bencina|gasolina
 et:Tankla
 eu:3Gasolindegia
+sr:5Гориво|4Бензин|3Дизел|Гас|Бензинска станица|Бензинска пумпа|5Gorivo|4Benzin|3Dizel|Gas|Benzinska stanica|Benzinska pumpa
 sv:3Bensin
 th:ก๊าซ
 tr:3Benzinlik|3Yakıt|3Akaryakıt|2Dizel|2Gaz
@@ -268,6 +272,7 @@ ro:4Parcare
 es:5Aparcamiento|5Estacionamiento|Aparcar|Estacionar|Parquear|4Parking
 et:Parkla
 eu:5Aparkalekua
+sr:4Паркинг|4Parking
 sv:4Parkering
 th:ที่จอดรถ
 tr:3Otopark
@@ -314,6 +319,7 @@ pt:4Compras
 pt-BR:4Compras
 ro:4Shopping|Cumpărături
 sk:Nakupovanie
+sr:Шопинг|Куповина|Šoping|Kupovina
 sw:Manunuzi
 sv:4Shopping
 th:ช็อปปิง
@@ -353,6 +359,7 @@ ro:Hotel|Hoteluri
 es:Hotel|Hoteles
 et:Hotell|Hotellid
 eu:Hotela
+sr:Хотел|Хотели|Hotel|Hoteli
 sv:Hotell|Hotellen
 th:โรงแรม
 tr:Otel|Oteller
@@ -395,6 +402,7 @@ ro:5Obiective turistice|4Turism
 es:4Turismo
 et:Vaatamisväärsused
 eu:4Turismoa
+sr:5Атракција|5Атракције|4Знаменитости|5Туризам|5Atrakcija|5Atrakcije|4Znamenitosti|5Turizam
 sv:4Sevärdheter|4Attraktion|4Turism
 th:สถานที่ท่องเที่ยว
 tr:4Görülecek yerler|3Turizm
@@ -437,6 +445,7 @@ ro:Divertisment
 es:Entretenimiento|Diversión
 et:Meelelahutus
 eu:Entretenimendua
+sr:Забава|Zabava
 sv:Underhållning
 th:แหล่งบันเทิง
 tr:Eğlence
@@ -479,6 +488,7 @@ ro:Viața nocturnă|cu prietenii|petrecere
 es:Vida nocturna|noche
 et:Ööelu
 eu:Gaueko bizitza
+sr:Ноћни живот|Noćni život
 sv:Nattliv
 th:ไนท์ไลฟ์
 tr:Gece hayatı
@@ -521,6 +531,7 @@ ro:Divertisment cu copiii|Divertisment cu familia|Vacanță cu copiii
 es:Ocio en familia|Diversión en familia
 et:Perepuhkus
 eu:Umeekin atseden hartu
+sr:Породични одмор|Porodični odmor
 sv:Semester med barn
 th:วันหยุดสำหรับครอบครัว
 tr:Aile tatili
@@ -563,6 +574,7 @@ ro:3Bancomat|ATM
 es:Cajero|cajero automático
 et:Pangaautomaat
 eu:4Kutxazain automatikoa
+sr:5Банкомат|5Bankomat
 sv:3Bankomat
 th:2เอทีเอ็ม
 tr:3Bankamatik
@@ -608,6 +620,7 @@ pt-BR:Para trailers
 ro:Pentru rulote|3Rulotă|RV
 ru:Для автодомов|5Автодом|5Трейлер|Дом на колёсах
 sk:Pre RV
+sr:За кампер возила|Za kamper vozila
 sv:För husbil
 sw:Kwa RV
 th:สำหรับ RV
@@ -643,6 +656,7 @@ ro:bani
 es:dinero|efectivo|cajero
 et:Raha
 eu:3dirua
+sr:Новац|Паре|Novac|Pare
 sv:pengar
 th:เงิน|atm
 tr:3para
@@ -683,6 +697,7 @@ ro:3Bancă
 es:3Banco
 et:3Pank
 eu:3Bankua
+sr:3Банка|Банке|3Banka|Banke
 sv:3Bank
 th:3ธนาคาร
 tr:3Banka
@@ -729,6 +744,7 @@ pt-BR:De segunda mão
 ro:La mâna a doua
 ru:4Секонд-хенд
 sk:Second-hand
+sr:Секонд-хенд|Sekond-hend
 sv:Begagnad
 sw:Mtumba
 th:มือสอง
@@ -763,6 +779,7 @@ ro:bani
 es:dinero
 et:raha
 eu:3dirua
+sr:Новац|Паре|Novac|Pare
 sv:pengar
 th:เงิน
 tr:3para
@@ -804,6 +821,7 @@ es:Reciclaje|Reciclaje de residuos|Eliminación de residuos|Materiales reciclabl
 eu:Hondakinen birziklapena|Hondakinak ezabatzea|Material birziklagarriak|Zabor bilketa selektiboa|Hondakinak sailkatzea|Berrerabilpena
 et:Taaskasutus|Jäätmete kasutamine|Jäätmete äraandmine|Taaskasutatavad|Prügi eraldi korjamine|Prügi sorteerimne|Taaskasutus
 es-MX:Reciclaje|Reciclaje de desechos|Eliminación de desechos|Materiales reciclables|Recogida separada de basura|Clasificación de desechos|Reutilización
+sr:Рециклажа|Reciklaža
 sv:Återvinning av avfall|Avfallsbehandling|Återvinningsbart avfall|Separat sopinsamling|Sopsortering|Återanvändning
 th:การรีไซเคิล|การใช้ประโยชน์จากขยะ|รีไซเคิลได้|ที่รวบรวมขยะแยกประเภท|การแยกขยะ|รียูส
 tr:4Geri dönüşüm|4Atık kullanımı|4Geri dönüştürülebilir nesneler|4Ayrı çöp toplama|4Atık ayırma|5Yeniden kullanım
@@ -842,6 +860,7 @@ ro:3Schimb valutar|schimb
 es:3Cambio de divisas|dinero
 et:4Valuutavahetus
 eu:3Moneta-trukea|dirua
+sr:3Мењачница|4Menjačnica
 sv:3Valutaväxling|3växling|pengar
 th:1แลกเปลี่ยนเงินตรา|หลักสูตร|เงิน
 tr:3Döviz bürosu|3para
@@ -881,6 +900,7 @@ ro:2Bar|2cârciumă|băutură
 es:2Bar|2pub
 et:2Baar|pubi
 eu:2Taberna|2pub
+sr:Бар|паб|пиво|пиће|таверна|Bar|pab|pivo|piće|taverna
 sv:2Bar|2pub|krog|öl|drink
 th:2บาร์|ผับ|เบียร์|เครื่องดื่ม
 tr:2Bar|3bira|pub|içki
@@ -6110,6 +6130,7 @@ he:בית מרקחת
 sk:3Lekáreň
 sw:Duka la dawa
 fa:داروخانه
+sr:4Апотека|Апотеке|Apoteka|Apoteke
 
 amenity-pharmacy|@category_pharmacy
 en:4Drugstore|apothecary|4dispensary|U+1F489|U+1F48A
