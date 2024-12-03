@@ -1181,7 +1181,7 @@
     ro = • Nu consumă baterie, funcționează offline
     ru = • Не разряжает батарею, работает в автономном режиме
     sk = • Žiadne vybíjanie batérie, funguje v režime offline
-    sr = • Без непотребне потрошње батерије, ради и без Интернета
+    sr = • Без непотребне потрошње батерије, ради и без интернета
     sv = • Ingen batteriförbrukning, fungerar offline
     sw = • Hakuna betri kuisha, inafanya kazi nje ya mtandao
     th = • ไม่มีแบตเตอรี่หมด ทำงานแบบออฟไลน์
@@ -2960,7 +2960,7 @@
     ro = Alege între mile și kilometri
     ru = Использовать километры или мили
     sk = Vyberte si míle alebo kilometre
-    sr = Изаберите између миља и километара
+    sr = Изаберите између километара и миља
     sv = Välj mellan mile och kilometer
     th = เลือกระหว่างไมล์และกิโลเมตร
     tr = Mil veya kilometre seçimini yap
@@ -11267,7 +11267,7 @@
     ro = Sosire la %@
     ru = Прибытие в %@
     sk = Pricestovať: %@
-    sr = Долазак у: 
+    sr = Долазак у: %@
     sv = Ankomst: %@
     th = มาถึง: %@
     tr = Varış: %@
@@ -17466,7 +17466,7 @@
     ro = Descarcă hărți pentru a căuta un loc și a naviga fără conectare la internet.
     ru = Загрузите необходимые карты, чтобы находить места и пользоваться навигацией без интернета.
     sk = Prevziať mapy na nájdenie pozície a navigovanie off-line.
-    sr = Преузмите мапе да бисте претраживали и користили навигацију без Интернета.
+    sr = Преузмите мапе да бисте претраживали и користили навигацију без интернета.
     sv = Ladda ner kartor för att hitta platsen och navigera offline.
     th = ดาวน์โหลดแผนที่เพื่อค้นหาสถานที่ และนำทางแบบออฟไลน์
     tr = Çevrimdışı olarak adres bulmak ve gezinmek için haritaları indirin.
@@ -19787,8 +19787,8 @@
     pt = Parar
     ro = Oprește
     ru = Cтоп
-    sv = Stopp
     sr = Стоп
+    sv = Stopp
     th = หยุด
     tr = Dur
     uk = Cтоп
@@ -20250,7 +20250,7 @@
     ro = Folosești internetul mobil pentru a vedea informații detaliate?
     ru = Загружать дополнительную информацию через мобильный интернет?
     sk = Použiť mobilný internet na zobrazenie podrobnejších informácií?
-    sr = Користи мобилни Интернет ради приказа детљних информација?
+    sr = Користи мобилни интернет ради приказа детљних информација?
     sv = Använd mobilt nätverk för att visa detaljerad information?
     th = ใช้อินเทอร์เน็ตมือถือแสดงข้อมูลโดยรายละเอียดหรือไม่?
     tr = Ayrıntılı bilgileri görüntülemek için mobil internet kullanılsın mı?
@@ -20432,7 +20432,7 @@
     ro = Internet mobil
     ru = Мобильный интернет
     sk = Mobilný internet
-    sr = Мобилни Интернет
+    sr = Мобилни интернет
     sv = Mobilt internet
     th = อินเทอร์เน็ตมือถือ
     tr = Mobil İnternet
@@ -21029,8 +21029,7 @@
     ro = Pentru unele limbi trebuie să instalezi alt sintetizator de voce sau un pachet lingvistic suplimentar din Magazinul de aplicații (Google Play, Galaxy Store, App Gallery, FDroid).\nDeschide setările dispozitivului → Limbă → Transformare text în vorbire → Motor preferat.\nAici poți alege motorul de transformare a textului în vorbire și poți descărca o limbă pentru utilizare fără internet.
     ru = Для некоторых языков, возможно, необходимо установить дополнительный синтезатор речи (TTS) из магазина приложений (Google Play, Galaxy Store, App Gallery, FDroid).\nЧтобы настроить синтезатор речи, перейдите в Настройки → Язык и ввод → Синтез речи.\nЗдесь можно установить дополнительные языковые пакеты или выбрать синтезатор речи.
     sk = Pre niektoré jazyky bude potrebné nainštalovať syntetizátor reči alebo balík doplnkového jazyka z obchodu s aplikáciami (Google Play, Galaxy Store, App Gallery, FDroid). Otvorte nastavenia zariadenia → Jazyk a vstup → Reč → Prevod textu na reč. Tu môžete spravovať nastavenia pre syntézu reči (napríklad stiahnuť jazykový balík pre použitie v režime offline) a vybrať iný jazyk.
-    sr = За поједине језике, мораћете да инсталирате синтетизатор говора или језички пакет путем продавнице апликација (Google Play, Galaxy Store, App Gallery, FDroid).\nОтворите Подешавања вашег уређаја → Језик и унос → Говор → Излаз Текста у говор.\nОвде можете да управљате подешавањима за синтезу говора (на пример, да преузмете језички пакет за употребу без Интернета) и да изаберете неку другу машину за Текст-у-говор.</string>
-    <string name="prefs_languages_information_off_link">За више информација погледајте ово упутство.
+    sr = За поједине језике, мораћете да инсталирате синтетизатор говора или језички пакет путем продавнице апликација (Google Play, Galaxy Store, App Gallery, FDroid).\nОтворите Подешавања вашег уређаја → Језик и унос → Говор → Излаз Текста у говор.\nОвде можете да управљате подешавањима за синтезу говора (на пример, да преузмете језички пакет за употребу без интернета) и да изаберете неку другу машину за Текст-у-говор.
     sv = För vissa språk måste du installera en annan talsyntes eller ett annat språkpaket från appbutiken (Google Play Market, Galaxy Store).\nÖppna inställningarna på enheten → Språk och inmatning → Tal → Text till tal-uppspelning.\nHär kan du hantera inställningarna för talsyntes (till exempel, ladda ned språkpaket för användning offline) och välja en annan text till tal-motor.
     sw = Kwa baadhi ya lugha, utahitaji kusakinisha programu nyingine ya kusanidi usemi au kifurushi cha ziada cha lugha kutoka kwenye duka la programu-tumizi (Google Play, Galaxy Store, App Gallery, FDroid).\nFungua mipangilio ya kifaa chako → Lugha na Ingizo → Usemi → Tokeo la maandishi kuwa usemi.\nHapa unaweza kusimamia usanidi wa usemi (kwa mfano, kupakua kifurushi cha lugha ili utumie nje ya mtandao) na uchague injini nyingine ya maandishi-kuwa-usemi.
     th = สำหรับบางภาษาคุณจำเป็นต้องติดตั้งตัวสังเคราะห์เสียงหรือชุดภาษาเพิ่มเติมจากแอปสโตร์ (Google Play, Galaxy Store, App Gallery, FDroid)\nเปิดการตั้งค่าของเครื่องคุณ → ภาษาและการป้อนข้อมูล → คำพูด → เอาต์พุตการอ่านออกเสียง\nที่นี่คุณสามารถจัดการการตั้งค่าสำหรับการสังเคราะห์เสียง (ตัวอย่างเช่น ดาวน์โหลดชุดภาษาสำหรับใช้งานออฟไลน์) และเลือกเครื่องมืออ่านออกเสียงข้อความตัวอื่นได้
@@ -23167,8 +23166,8 @@
     sk:few = Boli nájdené %d súbory. Uvidíte ich po konverzii.
     sk:one = Bol nájdený %d súbor. Uvidíte to po konverzii.
     sk:other = Bolo nájdených %d súborov. Uvidíte ich po konverzii.
-    sr:one = %d фајл је пронађен. Можете да га погледате након конверзије.
     sr:few = %d фајла је пронађено. Можете да их погледате након конверзије.
+    sr:one = %d фајл је пронађен. Можете да га погледате након конверзије.
     sr:other = %d фајлова је пронађено. Можете да их погледате након конверзије.
     sv:one = %d fil hittades. Du kommer att se den efter omvandlingen.
     sv:other = %d filer har hittats. Du kommer att se dem efter omvandlingen.
@@ -23434,8 +23433,8 @@
     ru:one = %d трек
     ru:other = %d треков
     sk = %d sledovania
-    sr:one = %d путања
     sr:few = %d путање
+    sr:one = %d путања
     sr:other = %d путања
     sv = %d spår
     sw = Njia %d
@@ -24844,7 +24843,7 @@
     ro = Dacă este pornit modul de economisire a energiei, aplicația va deconecta funcțiile care consumă multă energie în dependență de nivelul de încărcare a bateriei.
     ru = Если режим энергосбережения включён, приложение будет отключать энергозатратные функции в зависимости от текущего заряда телефона
     sk = Keď je zvolený automatický režim, aplikácia začne vypínať funkcie, ktoré vybíjajú batériu v závislosti od aktuálnej úrovne nabitia batérie
-    sr = Покушај да смањиш потрошњу ел. енергије на уштрб одређених функционалности.
+    sr = Смањује потрошњу електричне енергије искључивањем одређених функционалности.
     sv = Om energisparläget är på, stängs energikrävande funktioner av beroende på telefonens nuvarande laddning
     sw = Pindi mtindo wa kiotomatiki unapochaguliwa programu tumizi inaanza kuzima sifa za kumaliza betri kulingana na kiwango cha chaji cha sasa cha betri
     th = เมื่อโหมดอัตโนมัตินั้นถูกเลือก แอปพลิเคชันจะเริ่มหยุดการใช้พลังงานจากแบตเตอรีขึ้นอยู่กับจำนวนไฟในแบตเตอรีว่าเหลือเท่าไร
@@ -25036,7 +25035,7 @@
     ro = Opțiunea activează jurnalizarea în scopuri de diagnosticare. Aceasta poate fi utilă echipei noastre pentru a rezolva problemele cu aplicația. Activează temporar această opțiune pentru a înregistra și a ne trimite jurnale detaliate despre problema ta.
     ru = Данная настройка включается для записи действий в целях диагностики, чтобы помочь нашей команде выявить проблемы с приложением. Временно включайте эту настройку только для отправки детальной информации о найденной вами проблеме в приложении через кнопку "Сообщить о проблеме".
     sk = Týmto zapnete záznamenávanie diagnostických informácií, ktoré môžete poslať našej technickej podpore v prípade problémov s aplikáciou. Záznam môže obsahovať údaje o vašej polohe.
-    sr = Привремено укључите ову опцију да бисте сачували и самостално нам послали детаљне дијагностичке логове о вашем проблему коришћењем опције "Пријави проблем" у прозору Помоћ. Логови могу да садрже информације о локацији.
+    sr = Привремено укључите ову опцију да бисте сачували детаљне дијагностичке логове уколико имате неки проблем. Логове можете да нам пошаљете коришћењем опције "Пријави проблем" у прозору Помоћ. Напомена: Логови могу да садрже информације о вашој локацији.
     sv = Aktivera denna funktion för att logga detaljer för diagnostiska ändamål. Detta hjälper utvecklarna att identifiera problem med appen. Slå på funktionen endast på begäran av Organic Maps supporttjänst.
     sw = Chaguo huwasha data kwa madhumuni ya uchunguzi. Itakuwa muhimu kwa wafanyakazi wetu ambao wanatatua matatizo ya programu. Washa chaguo hili kwa maombi ya mhudumu wa Organic Maps tu.
     th = ออปชันเพื่อเปิดการบันทึกประวัติการทำงานเพื่อการวินิจฉัย ประวัติดังกล่าวอาจเป็นประโยชน์กับทีมงานช่วยเหลือของเราที่คอยจัดการกับปัญหาที่เจอระหว่างแอปทำงาน โปรดเปิดออปชันดังกล่าวจากการร้องข้อการสนับสนุนจาก Organic Maps เท่านั้น
@@ -30283,7 +30282,7 @@
     ro = Date cartografice din OpenStreetMap
     ru = Картографические данные из OpenStreetMap
     sk = Mapové údaje z OpenStreetMap
-    sr = Подаци мапе су са пројекта OpenStreetMap
+    sr = Подаци за мапе су са OpenStreetMap
     sv = Kartdata från OpenStreetMap
     sw = Data ya ramani kutoka OpenStreetMap
     th = ข้อมูลแผนที่จาก OpenStreetMap
